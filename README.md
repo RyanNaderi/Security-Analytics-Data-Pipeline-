@@ -19,7 +19,6 @@ The pipeline performs the following steps:
 * Pandas
 * SQLite
 * SQL
-* Matplotlib
 * CSV
 
 ## Detection Logic
