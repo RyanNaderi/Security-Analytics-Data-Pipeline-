@@ -1,0 +1,20 @@
+time_window,user,fail_count,risk_level,reason
+2026-09-01 10:00:00,Hannah,1,Clear,Threshold not reached
+2026-09-01 10:00:00,Jeff,1,Clear,Threshold not reached
+2026-09-01 10:00:00,Julian,1,Clear,Threshold not reached
+2026-09-01 10:00:10,Camron,2,Clear,Threshold not reached
+2026-09-01 10:00:10,Jeff,1,Clear,Threshold not reached
+2026-09-01 10:00:10,Julian,1,Clear,Threshold not reached
+2026-09-01 10:00:10,Mathew,1,Clear,Threshold not reached
+2026-09-01 10:00:20,Camron,1,Clear,Threshold not reached
+2026-09-01 10:00:20,Julian,2,Clear,Threshold not reached
+2026-09-01 10:00:20,Mathew,3,Suspicious,3+ failures within one log window
+2026-09-01 10:00:30,Camron,2,Clear,Threshold not reached
+2026-09-01 10:00:30,Julian,4,Suspicious,3+ failures within one log window
+2026-09-01 10:00:30,Nathan,2,Clear,Threshold not reached
+2026-09-01 10:00:40,Camron,5,Suspicious,3+ failures within one log window
+2026-09-01 10:00:40,Julian,4,Suspicious,3+ failures within one log window
+2026-09-01 10:00:50,Camron,2,Clear,Threshold not reached
+2026-09-01 10:00:50,Julian,7,Suspicious,3+ failures within one log window
+2026-09-01 10:01:00,Julian,10,Suspicious,3+ failures within one log window
+2026-09-01 10:01:10,Julian,7,Suspicious,3+ failures within one log window
